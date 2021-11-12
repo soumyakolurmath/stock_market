@@ -10,4 +10,8 @@ public class StockmarketApplication {
 		SpringApplication.run(StockmarketApplication.class, args);
 	}
 
+	void ref() {
+
+	}
+
 }
