@@ -12,4 +12,9 @@ class StockServiceTest {
         new StockService();
         System.out.println(StockService.stocks.size());
     }
+
+    @Test
+    void work() {
+
+    }
 }
