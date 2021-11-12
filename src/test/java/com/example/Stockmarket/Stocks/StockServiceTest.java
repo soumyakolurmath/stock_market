@@ -17,4 +17,9 @@ class StockServiceTest {
     void work() {
 
     }
+
+    @Test
+    void referral() {
+
+    }
 }
