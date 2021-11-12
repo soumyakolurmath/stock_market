@@ -11,3 +11,5 @@ class StockmarketApplicationTests {
 	}
 
 }
+
+//ccd
