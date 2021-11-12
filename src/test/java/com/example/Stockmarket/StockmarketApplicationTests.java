@@ -8,7 +8,9 @@ class StockmarketApplicationTests {
 
 	@Test
 	void contextLoads() {
+
 		// me working
+		//lorkg
 	}
 
 }
