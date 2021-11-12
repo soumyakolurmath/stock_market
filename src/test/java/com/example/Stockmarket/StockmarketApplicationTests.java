@@ -12,6 +12,13 @@ class StockmarketApplicationTests {
 		// me working
 		//lorkg
 	}
+	
+	@Test
+	void contextLoads2() {
+
+		// me working
+		//lorkg
+	}
 
 	@Test
 	void contextLoads3() {
